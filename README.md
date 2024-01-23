@@ -5,7 +5,7 @@
   
 <h2>You should See my Projects!!</h3>
   
-| PyGame_Tetris | QR Hunter | Advent of Code '23 |
+| PyGame_Tetris <sub><sup>[`PROJECT LINK`](./PyGame_Tetris/.)</sup></sub> | QR Hunter <sub><sup>[`PROJECT LINK`](./CMPUT301W23T31Project/.)</sup></sub> | Advent of Code '23 <sub><sup>[`PROJECT LINK`](./Advent_of_Code_2023/.)</sup></sub> |
 | --- | --- | --- |
 | Created a Tetris game that plays itself, and gets better the longer it plays | QR Code scanning Game, created for CMPUT301 Group Project | Finished in Top 2% over Entire Event |
 | img TODO | img TODO | img TODO |
