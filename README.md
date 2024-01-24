@@ -8,5 +8,5 @@
 | PyGame_Tetris [`<LINK>`](./PyGame_Tetris/.) | QR Hunter [`<LINK>`](./CMPUT301W23T31Project/.) | Advent of Code '23 [`<LINK>`](./Advent_of_Code_2023/.) |
 | --- | --- | --- |
 | Created a Tetris game that plays itself, and gets better the longer it plays | QR Code scanning Game, created for CMPUT301 Group Project | Finished in Top 2% over Entire Event |
-| img TODO | img TODO | ![Advent of Code Tree Pictogram](./AoC-tree-fixed.png) |
+| img TODO | img TODO | ![Advent of Code Tree Pictogram](./assets/AoC-tree.png) |
 | small details | small details | small details |
