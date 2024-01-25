@@ -10,3 +10,31 @@
 | Created a Tetris game that plays itself, and gets better the longer it plays | QR Code scanning Game, created for CMPUT301 Group Project | Finished in Top 2% over Entire Event |
 | ![PyGame Tetris Demo Loop](./assets/PyGame_Tetris_Loop_Demo.gif) | ![CMPUT301 QR Hunter Home Screen](./assets/C301_Home_Screenshot.png) | ![Advent of Code Tree Pictogram](./assets/AoC-tree.png) |
 | small details | small details | small details |
+
+<h3>HTML Table Test</h3>
+<table>
+	<thead>
+		<tr>
+			<th>PyGame_Tetris</th>
+			<th>QR Hunter</th>
+			<th>Advent of Code '23</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Created a Tetris game that plays itself, and gets better the longer it plays</td>
+			<td>QR Code scanning Game, created for CMPUT301 Group Project</td>
+			<td>Finished in Top 2% over Entire Event</td>
+		</tr>
+		<tr>
+			<td><img src="./assets/PyGame_Tetris_Loop_Demo.gif" alt="PyGame Tetris Demo Loop"></td>
+			<td><img src="./assets/C301_Home_Screenshot.png" alt="CMPUT301 QR Hunter Home Screen"></td>
+			<td><img src="./assets/AoC-tree.png" alt="Advent of Code Tree Pictogram"></td>
+		</tr>
+		<tr>
+			<td>small details</td>
+			<td>small details</td>
+			<td>small details</td>
+		</tr>
+	</tbody>
+</table>
