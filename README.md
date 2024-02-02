@@ -8,6 +8,6 @@
   
 | PyGame_Tetris [`<LINK>`](https://github.com/CarsonBarnstable/PyGame_Tetris) | QR Hunter [`<LINK>`](https://github.com/CarsonBarnstable/CMPUT301W23T31Project/) | Advent of Code '23 [`<LINK>`](https://github.com/CarsonBarnstable/Advent_of_Code_2023/) |
 | --- | --- | --- |
-| Created a Tetris game that plays by itself, and is able to improve its strategy through playing | QR Code hunting/scanning Game, with interactive maps, leaderboards, and ranked leagues | Done in Python during Christmas 2023<br>Finished Top 2% for Completion overall (Full Stars in First 23 of 25 Days ) |
+| Created a Tetris game that is able to play itself, and able to improve its playing strategy through repeated playing | QR Code hunting/scanning Game, with interactive maps, leaderboards, and ranked leagues | Done in Python over Christmas 2023 : Finished Top 2% Overall for Completion (Full Stars in First 23 of 25 Days) |
 | ![PyGame Tetris Demo Loop](./assets/PyGame_Tetris_Loop_Demo_Realtime.gif) | ![CMPUT301 QR Hunter Home Screen](./assets/C301_Home_Screenshot_Halved.png) | ![Advent of Code Hat Pictogram](./assets/AoC-hat-black-fixed.png)<br>&nbsp;<br>![Advent of Code Tree Pictogram](./assets/AoC-tree.png) |
 | small details | small details | small details |
