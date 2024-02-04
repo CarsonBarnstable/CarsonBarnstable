@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Created a Tetris game that is able to play itself, and able to improve its playing strategy through repeated playing | QR Code hunting/scanning Game, with interactive maps, leaderboards, and ranked leagues | Done in Python over Christmas 2023 : Finished Top 2% Overall for Completion (Full Stars in First 23 of 25 Days) |
 | ![PyGame Tetris Demo Loop](./assets/PyGame_Tetris_Loop_Demo_Realtime.gif) | ![CMPUT301 QR Hunter Home Screen](./assets/C301_Home_Screenshot_Halved.png) | ![Advent of Code Hat Pictogram](./assets/AoC-hat-black-fixed.png)<br>&nbsp;<br>![Advent of Code Tree Pictogram](./assets/AoC-tree.png) |
-| small details | small details | small details |
+| details | details | details |
